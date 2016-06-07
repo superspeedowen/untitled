@@ -6,6 +6,7 @@ class testing:
     def hello(self):
         print("hello", self.i)
         print("123")
+        print("abc")
 
 #a = Demo()
 #a.hello()
